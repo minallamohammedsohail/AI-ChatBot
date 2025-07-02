@@ -19,7 +19,4 @@ This project is an AI-powered chatbot designed to assist users with various quer
 1. Clone the repository
 2. Create a `.env` file with your API keys (see `.env.example` if available)
 3. Install dependencies using your preferred package manager
-4. Run the application
-
-## License
-This project is licensed under the MIT License. 
+4. Run the application 
